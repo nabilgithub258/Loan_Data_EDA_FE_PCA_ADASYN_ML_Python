@@ -57,4 +57,9 @@ Among the resampling techniques used, ADASYN provided the best results, improvin
 
 This project demonstrates the importance of addressing class imbalance in predictive modeling. By employing advanced resampling techniques like ADASYN, we achieved better performance in predicting loan default status.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any improvements or bug fixes.
+
+
 ---
